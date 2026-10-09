@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/FitnessPlanner.java</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/MainApp.java</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/DatabaseConnection.java</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/BCrypt.java</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/fitness.css</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/User.java</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/DailyRoutine.java</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/UserService.java</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/RoutineService.java</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/LoginView.java</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/DashboardView.java</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/RegistrationView.java</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/WorkoutPlannerView.java</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/ProgressService.java</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/WeightEntry.java</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/ProfileEditView.java</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/WorkoutService.java</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/UserMetrics.java</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/login_background.jpg</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/male_dashboard.jpg</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/female_dashboard.jpg</file>
+            <file>file:/C:/Users/Beimnet/Documents/NetBeansProjects/FitnessPlanner/src/fitnessplanner/ChallengeManager.java</file>
+        </group>
+    </open-files>
+</project-private>
